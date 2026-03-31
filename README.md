@@ -7,6 +7,8 @@ I have several projects done for school and personal life.
 
 Currently working on the biggest one yet. As always.
 
+You can contact me on: +52 999 958 4400
+
 Fun facts:
 - I have 2 cats and a dog.
 - I like tea more than coffee.
