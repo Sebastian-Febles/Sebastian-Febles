@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there!
+My name is Sebastian Febles a Software Developer student in Mexico.
+I try to build anything I can find a use for.
 
-<!--
-**Sebastian-Febles/Sebastian-Febles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently learning C# and Visual Studio. Focusing on reaching a expert - master level on it.
+I have several projects done for school and personal life.
 
-Here are some ideas to get you started:
+Currently working on the biggest one yet. As always.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun facts:
+- I have 2 cats a dog.
+- I like tea more than coffee.
+- I want to learn 1-2 more languages.
+
+I love videogames and everything related, as well as gardening, creating music, art and other silly things.
